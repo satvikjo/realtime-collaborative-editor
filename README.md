@@ -57,7 +57,7 @@ npm install express mongoose cors jsonwebtoken bcryptjs dotenv cookie-parser ws
 Create a `.env` file:
 
 ```
-MONGO_URI=mongodb://localhost:27017/realtime-editor
+MONGO_URI= your_mongodb_uri
 JWT_SECRET=your_secret_key
 ```
 
