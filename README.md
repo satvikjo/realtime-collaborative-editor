@@ -28,7 +28,7 @@ A full-stack real-time collaborative text editor built with **React**, **Node.js
 
 ## 📁 Project Structure
 
-'''
+
 root/
 ├── server/               # Backend logic
 │   └── server.js
@@ -37,7 +37,6 @@ root/
 │       └── App.js
 ├── .env                  # Environment variables (NOT committed)
 └── README.md
-'''
 
 ---
 
