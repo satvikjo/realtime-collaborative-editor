@@ -1,4 +1,4 @@
-```markdown
+
 # 📝 Real-Time Collaborative Editor
 
 A full-stack real-time collaborative text editor built with **React**, **Node.js**, **Express**, **MongoDB**, and **WebSockets**. This app allows multiple users to create and collaboratively edit documents, manage version history, and control access with real-time synchronization.
